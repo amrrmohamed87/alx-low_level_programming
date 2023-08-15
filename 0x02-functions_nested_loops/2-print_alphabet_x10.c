@@ -2,7 +2,7 @@
 /**
  * main - function that prints 10 times the alphabet, in lowercase
  *
- * print_alphabet_x10 - print lowercase alphabet 10 times
+ * Description - print lowercase alphabet 10 times
  *
  * Return: Always 0
  */
