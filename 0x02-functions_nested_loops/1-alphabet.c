@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - Write a function that prints the alphabet, in lowercase, followed by a nl
+ * main - print the alphabet, in lowercase, followed by a nl
  *
  * Return: Always 0
  */
