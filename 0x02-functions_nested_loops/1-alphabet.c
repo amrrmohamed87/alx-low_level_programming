@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - print the alphabet, in lowercase, followed by a nl
- *
- * Return: Always 0
+ * print_alphabet - Entry point
+ * Return:0
  */
+
 
 void print_alphabet(void)
 {
