@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 projects:
 0. _putchar
 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
@@ -11,3 +12,6 @@ projects:
 9. Learn your times table
 10. a + b
 11. 98 Battery Street, the OG
+=======
+Readme file
+>>>>>>> 3da617cb1a16e3bad007e73738fbf48a1f8be784

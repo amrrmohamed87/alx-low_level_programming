@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 int _putchar (int c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _isalpha(int c);
 int _islower(int c);
+=======
+int _putchar(int c);
+void print_alphabet(void);
+void print_alphabet_x10(void);
+int _islower(int c);
+int _isalpha(int c);
+>>>>>>> 3da617cb1a16e3bad007e73738fbf48a1f8be784
 int print_sign(int n);
 int _abs(int);
 int print_last_digit(int);
