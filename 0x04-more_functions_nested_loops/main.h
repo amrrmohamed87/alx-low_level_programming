@@ -14,3 +14,7 @@ void print_square(int size);
 void print_triangle(int size);
 
 #endif
+<<<<<<< HEAD
+=======
+
+>>>>>>> 29063948a330b16a459667134650aef74f77e4d6
