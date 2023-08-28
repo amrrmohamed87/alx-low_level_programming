@@ -1,14 +1,15 @@
 #include "main.h"
 
 /**
- * print_cheesboard - function that prints a cheesboard
+ * print_chessboard - function that prints a cheesboard
  * @a: array
  *
  * Return: Always 0 on success.
  */
-void print_cheesboard(char (*a)[8])
+void print_chessboard(char (*a)[8])
 {
-	int i, j;
+	int i;
+	int j;
 
 	for (i = 0; i < 8; i++)
 	{
