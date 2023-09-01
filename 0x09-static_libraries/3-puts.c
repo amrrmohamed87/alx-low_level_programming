@@ -1,4 +1,11 @@
 #include "main.h"
+
+/**
+ * _puts - function that prints strings on the output screen
+ * @str: input value
+ *
+ * Return: void
+ */
 void _puts(char *str);
 #include<stdio.h>
 
