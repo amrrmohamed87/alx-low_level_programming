@@ -4,13 +4,13 @@
 
 /**
  * print_list - function that prints all the elements of a list
- * @h: pointer to print
+ * @h: pointer to the list
  *
  * Return: number of nodes
  */
 size_t print_list(const list_t *h)
 {
-	size_t x = 0;
+	unsigned int num_nodes = 0;
 
 	while (h)
 	{
@@ -19,7 +19,7 @@ size_t print_list(const list_t *h)
 		else
 			printf("[%u] %s\n", h->len, h->str);
 		h = h->next;
-		x++;
+		num_nodes++;
 	}
-	return (x);
+	return (num_nodes);
 }
